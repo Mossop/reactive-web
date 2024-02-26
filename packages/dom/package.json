@@ -1,0 +1,13 @@
+{
+  "name": "@reactive-web/dom",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/Mossop/ReactiveWeb",
+  "author": "Dave Townsend <dtownsend@oxymoronical.com>",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@reactive-web/core": "1.0.0"
+  }
+}

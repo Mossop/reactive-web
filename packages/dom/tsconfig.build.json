@@ -1,0 +1,11 @@
+{
+  "extends": "@mossop/config/node-ts/tsconfig.build.json",
+  "compilerOptions": {
+    "lib": ["es2021", "DOM"],
+    "module": "commonjs",
+    "target": "es2020",
+
+    "outDir": "dist"
+  },
+  "include": ["src/**/*"]
+}
